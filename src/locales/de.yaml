@@ -11,3 +11,11 @@ task:
   delete: Löschen
 settings:
   language: Sprache
+filters:
+  all: Alle
+  active: Offen
+  completed: Erledigt
+  clear: Clear {count} completed
+  none: Noch keine @.lower:filters.complete Aufgaben
+  hint: Drücke {0}, um den Filter zu wechseln
+  archived: Archiviert
