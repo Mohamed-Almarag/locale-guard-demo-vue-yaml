@@ -29,3 +29,22 @@ function remove(id: number, title: string) {
     </ul>
   </section>
 </template>
+
+<style scoped>
+ul {
+  display: grid;
+  gap: 0.75rem;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+}
+</style>
