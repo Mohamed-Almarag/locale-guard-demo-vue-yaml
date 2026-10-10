@@ -12,3 +12,10 @@ task:
   confirm: 'Delete "{title}"? This cannot be undone.'
 settings:
   language: Language
+filters:
+  all: All
+  active: Active
+  completed: Completed
+  clear: Clear {count} completed
+  none: No @.lower:filters.completed tasks yet
+  hint: Press {0} to switch filters
