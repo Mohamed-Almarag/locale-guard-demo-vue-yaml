@@ -11,3 +11,7 @@ task:
   delete: Löschen
 settings:
   language: Sprache
+reminders:
+  title: Erinnerungen
+  before: Am selben Tag erinnern | Einen Tag vorher erinnern | {count} Tage vorher erinnern
+  off: Erinnerungen ausschalten

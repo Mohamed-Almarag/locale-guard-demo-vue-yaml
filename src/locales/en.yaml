@@ -12,3 +12,7 @@ task:
   confirm: 'Delete "{title}"? This cannot be undone.'
 settings:
   language: Language
+reminders:
+  title: Reminders
+  before: Remind me on the day | Remind me one day before | Remind me {count} days before
+  off: Turn off reminders

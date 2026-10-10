@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { watchEffect } from 'vue'
 import { useI18n } from 'vue-i18n'
+import ReminderSettings from './components/ReminderSettings.vue'
 import TaskList from './components/TaskList.vue'
 import { languages } from './i18n'
 
@@ -27,5 +28,6 @@ watchEffect(() => {
   </header>
   <main>
     <TaskList />
+    <ReminderSettings />
   </main>
 </template>
