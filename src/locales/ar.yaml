@@ -1,0 +1,14 @@
+nav:
+  board: اللوحة
+board:
+  title: مهامي
+  empty: لا توجد مهام. استمتع بيومك!
+  remaining: لا توجد مهام متبقية | مهمة واحدة متبقية | {count} مهام متبقية
+  due: موعد التسليم {date}
+  assigned: مسندة إلى {0}
+task:
+  done: تحديد كمكتملة
+  delete: حذف
+  confirm: 'حذف "{title}"؟ لا يمكن التراجع عن ذلك.'
+settings:
+  language: ''

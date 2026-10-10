@@ -1,0 +1,14 @@
+nav:
+  board: Tableau
+board:
+  title: Mes tâches
+  empty: Rien à faire. Profitez de votre journée !
+  remaining: aucune tâche restante | une tâche restante | {count} tâches restantes
+  due: Échéance le {date}
+  assigned: Assignée à {0}
+task:
+  done: Marquer comme terminée
+  delete: Supprimer
+  confirm: 'Supprimer « {title} » ? Cette action est définitive.'
+settings:
+  language: Langue

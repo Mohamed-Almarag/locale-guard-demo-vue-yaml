@@ -1,0 +1,13 @@
+nav:
+  board: Board
+board:
+  title: Meine Aufgaben
+  empty: Nichts zu tun. Genieße deinen Tag!
+  remaining: keine Aufgaben übrig | eine Aufgabe übrig | {count} Aufgaben übrig
+  due: Fällig am {date}
+  assigned: Zugewiesen an {0}
+task:
+  done: Als erledigt markieren
+  delete: Löschen
+settings:
+  language: Sprache

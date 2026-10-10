@@ -1,0 +1,14 @@
+nav:
+  board: Board
+board:
+  title: My tasks
+  empty: Nothing to do. Enjoy your day!
+  remaining: no tasks left | one task left | {count} tasks left
+  due: Due {date}
+  assigned: Assigned to {0}
+task:
+  done: Mark as done
+  delete: Delete
+  confirm: 'Delete "{title}"? This cannot be undone.'
+settings:
+  language: Language
