@@ -12,3 +12,7 @@ task:
   confirm: 'Supprimer « {title} » ? Cette action est définitive.'
 settings:
   language: Langue
+reminders:
+  title: Rappels
+  before: Me le rappeler le jour même | Me le rappeler la veille | Me le rappeler {count} jours avant
+  off: Désactiver les rappels
