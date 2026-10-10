@@ -12,3 +12,7 @@ task:
   confirm: 'حذف "{title}"؟ لا يمكن التراجع عن ذلك.'
 settings:
   language: ''
+reminders:
+  title: التذكيرات
+  before: ذكّرني في نفس اليوم | ذكّرني قبلها بيوم | ذكّرني قبلها بـ {count} أيام
+  off: إيقاف التذكيرات
