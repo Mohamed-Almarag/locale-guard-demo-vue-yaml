@@ -12,3 +12,9 @@ task:
   confirm: 'حذف "{title}"؟ لا يمكن التراجع عن ذلك.'
 settings:
   language: ''
+filters:
+  all: الكل
+  active: النشطة
+  completed: المكتملة
+  none: لا توجد مهام @:filters.completed بعد
+  hint: اضغط {1} للتبديل بين الفلاتر
